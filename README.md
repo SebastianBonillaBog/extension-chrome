@@ -1,2 +1,2 @@
-# extension-chrome
-extension de chrome para guardar enlaces
+# README Extension Chrome 
+extension de chrome para guardar enlaces y contraseñas
